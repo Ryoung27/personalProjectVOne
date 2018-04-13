@@ -1,0 +1,15 @@
+.cityLocations {
+    display: inline-block;
+    margin: 0 10px;
+    min-width: 25%;
+    padding: 5px 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.bordered {
+    border: 1px  solid green;
+}
+
+.cityRow {
+    padding: 10px 0;
+}
